@@ -1,1 +1,0 @@
-^(\$mynick |\$lock |\$key )

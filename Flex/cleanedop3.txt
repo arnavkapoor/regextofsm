@@ -1,6 +1,0 @@
-curstate -- input -- nxt state
-1 a 5
-2 a 5
-5 b 6
-5 c 7
-6 c 7
